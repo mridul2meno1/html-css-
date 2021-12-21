@@ -1,0 +1,45 @@
+<html>
+<body>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+table.center {
+  margin-left: auto; 
+  margin-right: auto;
+}
+</style>
+<table class="center">
+<tr>
+<td rowspan=2 >state of health</td>
+<td colspan=2 >fasting value</td>
+<td>after eating</td>
+</tr>
+<tr>
+<td>minimum</td>
+<td>maximum</td>
+<td>2 hours after eating</td>
+</tr>
+<tr>
+<td>healthy</td>
+<td>70</td>
+<td>100</td>
+<td>less than 140</td>
+</tr>
+<tr>
+<td>pre-dibates</td>
+<td>101</td>
+<td>126</td>
+<td>140 to 200</td>
+</tr>
+<tr>
+<td>dibates</td>
+<td>more than 126</td>
+<td>N/A</td>
+<td>more than 200</td>
+</tr>
+
+</table>
+</body>
+</html>
