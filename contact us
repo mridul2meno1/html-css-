@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<title>
+CONTACT US
+</title>
+<head >
+<strong>WELCOME TO CONTACT US PAGE</strong>
+</head>
+<body>
+<h1 style="background-color:grey;">contact us </h1>
+<div class="topnav">
+  <input type="text" placeholder="Search.." >
+</div>
+<form>
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" placeholder="Mridul"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="fname" placeholder="Agrahari"><br>
+  <label for="lname">query:</label><br>
+ <input type="text" id="lname" name="lname" placeholder="query">
+<input type="submit" value="Submit">
+</form>
+</body>
+</html>
