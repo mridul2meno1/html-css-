@@ -1,4 +1,3 @@
-Design a contact us form with all fields as required.
 <!DOCTYPE html>
 <html>
 <title>
@@ -18,7 +17,12 @@ CONTACT US
   <label for="lname">Last name:</label><br>
   <input type="text" id="lname" name="fname" placeholder="Agrahari"><br>
   <label for="lname">query:</label><br>
- <input type="text" id="lname" name="lname" placeholder="query">
+ <input type="text" id="lname" name="lname" placeholder="query"></br>
+  <p>Please select your employee type:</p>
+  <input type="radio" id="business" name="employee" value="business">
+  <label for="employee">business</label><br>
+  <input type="radio" id="job" name="employee" value="job">
+  <label for="employee">job</label><br>
 <input type="submit" value="Submit">
 </form>
 </body>
