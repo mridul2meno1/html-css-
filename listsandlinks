@@ -1,0 +1,47 @@
+<html>
+<head>
+<h1 style="color:red;">
+"HTML & CSS is awesome"
+</h1>
+</head>
+<body>
+Create an element that helps you to open the https://google.com in separate new tab.
+<h2>
+<a href="https://google.com/" target="blank">Visit google</a>
+</h2>
+</body>
+</html>
+Use certain HTML elements to display the following in a HTML page
+<ul>
+    <ul1>
+    <li>JavaScript</li>
+    <ol>
+    <li>Angular</li>
+    <li>React</li>
+    <li>Vue.js</li>
+    </ol>
+    <ul2>
+    <li>Python</li>
+    <ol>
+    <li>Django Framework</li>
+    <li>Flask Framework</li>
+    </ol>
+    <ul4>
+    <li>Java</li>
+    <ol>
+    <li>Spring</li>
+    <li>Maven</li>
+    <li>Hibernate</li>
+    </ol>
+  <ul5>
+<li>database</li>
+  <ul>
+ <li>MySQL</li>
+ <li>MongoDB</li>
+ <li>Cansandra</li>
+</ul6>
+    </ul1>
+    </ul2>
+    </ul4>
+    </ul5>
+    </ul>
