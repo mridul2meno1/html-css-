@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>media-measurements-icons-fonts</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+<style>
+    *{
+        font-size: 20px;
+    }
+    .container{
+        text-align: center;
+        font-size: 50px;
+
+    }
+    @media screen and (max-width:700px) and (min-width: 100px){
+        
+    
+    #container1{
+        display: block;
+        background-color: blueviolet;
+    }
+}
+@media screen and (max-width:800px)and (min-width: 200px){
+        
+    
+        #container2{
+            display: block ;
+            background-color: rgb(226, 43, 43);
+        }
+    }
+    @media screen and (max-width:900px)and (min-width: 300px){
+        
+    
+        #container3{
+            display: block;
+            background-color: rgb(216, 113, 17);
+        }
+    }
+    @media screen and (max-width:1000px)and (min-width: 400px){
+        
+    
+        #container4{
+            display: block;
+            background-color: rgb(223, 219, 17);
+        }
+    }
+    .oflow{
+        overflow-x:auto;
+        width:300px;
+        height:300px;
+        background-color: olivedrab;
+    }
+
+p{
+    font-size: 3em;
+
+}
+h3{
+    font-size:1rem;
+}
+h4{
+    border:2px;
+    border-style:solid;
+    height:100vh;
+    width:100vw;
+     border-color:rgb(11, 5, 17);  
+     font-family: 'Baloo Bhaijaan 2', cursive;
+    font-family: 'The Nautigal', cursive;
+}
+
+</style>
+</head>
+<body>
+    <div class="container" id = "container1">desktop</div>
+    <div class="container" id = "container2">tablet</div>
+    <div class="container" id = "container3">b-phone </div>
+    <div class="container" id = "container4">s-phone</div>
+
+
+    <div class="oflow">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint voluptates dolorum at, aperiam ex officia natus doloribus esse accusamus neque eligendi, accusantium et odio explicabo nulla numquam possimus eius, qui tempore placeat repellat? Assumenda aperiam reprehenderit voluptatem asperiores, facilis ut eligendi ullam, earum accusantium tempora recusandae cupiditate, natus suscipit. Quidem autem hic tempore veritatis distinctio, doloribus provident porro, omnis repudiandae repellendus modi, perspiciatis velit numquam totam deleniti ex. Rem voluptatibus, eos soluta nihil et enim accusantium iste cupiditate optio? Sint aut magnam sapiente nobis, maxime quasi amet, minus rerum voluptatibus exercitationem nam? Dignissimos repudiandae rerum commodi minus ducimus porro ad ipsa voluptatem nam fugit illum corporis culpa, atque excepturi corrupti odio laudantium aliquid quis assumenda in ullam officiis perspiciatis cumque? Voluptates beatae fugiat praesentium, culpa at, impedit magni laudantium, voluptatum assumenda rem aspernatur asperiores ducimus amet dicta! Aperiam delectus iusto fugit, voluptatibus voluptates voluptatem, inventore est dicta accusantium temporibus nam illum obcaecati quis a doloremque deleniti deserunt at harum quia corporis, neque culpa? At nam non voluptatibus eligendi sequi, quo et similique ad sit aliquam consequatur vero ipsa quisquam deserunt cupiditate officiis necessitatibus qui? Rerum commodi deserunt assumenda rem, eveniet nostrum facilis cupiditate totam repellendus cum dolore neque ipsa magni et distinctio necessitatibus. Ducimus reprehenderit obcaecati officiis, est fugiat quasi sint. Provident eos fugit voluptatum illo, cum expedita deserunt culpa id dicta tempora facere ex voluptas sunt consectetur. Nisi blanditiis dolore magnam libero iusto esse, dignissimos dolorem earum aliquam atque iste in cum non ducimus provident nihil est reiciendis quam dolor vero praesentium consequatur error. Natus tempore, soluta saepe tenetur dolore architecto tempora nostrum velit, odio porro ipsam, eaque aliquam? Enim nobis, excepturi voluptates corporis similique, alias officiis odit maiores doloremque ducimus sapiente, omnis sit est rerum eaque qui atque nam! Nemo tempora architecto deserunt laborum autem recusandae odio exercitationem pariatur tempore similique praesentium nam necessitatibus minus excepturi atque consectetur, natus cumque libero dolor laudantium maiores rem soluta! Autem provident aliquam rerum dolorem. Natus cum numquam ullam adipisci. Voluptatum exercitationem, delectus temporibus iure cupiditate porro aut explicabo ipsa fuga rem praesentium et inventore molestiae minus tempora magni non quod similique? Officia atque laboriosam aliquid cupiditate quasi ut porro sunt possimus aperiam eveniet facilis rem nobis consectetur repellat ipsa, eos vero, maiores, aliquam repellendus adipisci quae fuga ea. Molestias ipsam ipsum numquam libero unde quae omnis natus nobis eaque. Tenetur est labore explicabo delectus vero, assumenda iusto qui perspiciatis voluptatem laboriosam, eveniet, dolores veritatis ut hic eaque quas vitae in impedit omnis? Neque magnam repellat sint vitae. Deleniti mollitia necessitatibus veritatis quas accusantium dolore, aperiam nulla aliquid beatae ex nihil sunt temporibus distinctio rerum suscipit ad fugiat? Velit at laboriosam voluptatem soluta quasi enim perspiciatis in cum cumque! Ex tempora animi recusandae qui exercitationem odit illum repellat eligendi magnam? Est earum accusamus beatae, at praesentium fugit. Nulla aspernatur non odit quasi, maxime odio? Doloribus nostrum soluta culpa, voluptates corporis sint iste officiis enim in ipsum accusamus sed ipsam fugit! Sit harum dicta blanditiis numquam corporis impedit suscipit quasi reiciendis aut vero tenetur odit sunt natus tempora tempore vitae cum illo, nam quisquam omnis debitis! Officiis voluptatum quasi consequatur ipsam accusantium harum, sunt quidem minus in nemo eveniet deleniti tenetur eos magnam alias mollitia ullam autem hic? Consequatur, officia aut! Unde doloribus voluptatibus pariatur reiciendis accusamus, consequatur iste fuga? Aspernatur doloribus quisquam ullam corporis dolores voluptate aliquam quos, nam iure velit alias dolor illo ipsa repudiandae quibusdam vitae! Possimus sit autem error ab quis quasi minima odit vel consectetur qui neque pariatur voluptatem natus harum nemo fugiat, vero ut, saepe laborum. Ipsam accusantium ullam soluta necessitatibus illum, architecto est eligendi quo libero nihil nostrum iure consequatur? Eligendi iusto optio est ut fugit molestias ducimus, quia magnam libero excepturi enim atque tempore ex corrupti minima deleniti reiciendis nam adipisci in provident omnis. Illo labore assumenda nam natus deleniti animi perferendis soluta ad! Eveniet eaque adipisci amet enim eos provident magnam vero quasi ex autem dolor unde rem sed consectetur maiores exercitationem, labore doloribus quia reiciendis et obcaecati ipsum molestiae! Error quo est itaque deserunt nihil alias a dolorem maxime voluptate quod, et quibusdam officiis totam harum voluptates, veniam maiores eveniet tempora aspernatur ut exercitationem recusandae iure ea rem! Officia explicabo reprehenderit accusantium praesentium error? Corrupti sequi minima alias velit molestias voluptatibus sapiente illum dicta ipsum minus, possimus iste suscipit, dolore et labore. Necessitatibus temporibus accusamus incidunt quos repudiandae distinctio optio dignissimos, enim illo at, explicabo eligendi earum, eveniet quam laboriosam soluta sunt qui odio delectus corporis ea magni sit beatae? Voluptatum, fugit fugiat? Ratione facilis ducimus magnam, molestias exercitationem itaque laudantium praesentium, cum necessitatibus, doloribus quia repellat accusamus laborum minima beatae nisi voluptas reiciendis inventore quidem delectus quasi? Debitis vero nisi alias inventore velit ipsam, perferendis minima quis eligendi? Error quo quia nisi ipsam sint similique dignissimos ipsa quae non nostrum consequuntur ullam, sequi minus laudantium magni. Inventore, a distinctio. Dolores pariatur quibusdam at commodi saepe culpa. Eum dignissimos explicabo nam quod facere! Enim culpa iure numquam recusandae aut autem. Deleniti id tempora maiores nihil! Voluptate blanditiis voluptates, in eligendi ducimus esse deleniti doloribus saepe nisi, laudantium distinctio sequi laboriosam doloremque quibusdam! Officia cum impedit necessitatibus voluptatem laboriosam repudiandae, eligendi voluptas cupiditate itaque odit dolore. Veniam quaerat ullam minus libero quis, qui veritatis perferendis atque reprehenderit accusantium dolores dignissimos impedit. Saepe dignissimos dolore officia, illum libero repudiandae voluptatem omnis quasi repellat optio nam eos inventore quas earum, accusantium architecto minima nulla aliquam! Totam modi voluptatum placeat fugit sunt doloremque deserunt quo natus, maxime cum dolorum, neque a velit quasi animi quis accusantium fuga quidem mollitia eaque facilis delectus rem. Rerum hic alias consequatur aperiam porro accusamus. Inventore perferendis maiores veniam a? Cupiditate accusamus consequuntur, rem autem suscipit perspiciatis, beatae quibusdam est recusandae doloremque magni, nam odio iure dolore nisi. Molestiae, libero eveniet magnam delectus ea nisi mollitia quisquam ad cum praesentium fugit suscipit in. Pariatur aut praesentium molestias temporibus voluptate sequi sed voluptates omnis ratione nulla reiciendis blanditiis id magni vero voluptas ab, aperiam dolorum. Fuga possimus corrupti incidunt veritatis qui amet cupiditate?
+    </div>
+    <p>this heading is represent em</p>
+    <h3>my name is mridul</h3>
+    <h4>this represents vh and vw
+        <a href="#"><i <i class="fab fa-facebook-square"></i></a>
+       <a href="#"><i <i class="fab fa-instagram-square"></i></a>
+       <a href="#"><i <i class="fab fa-twitter-square"></i></a>
+    </h4>
+    
+</body>
+</html>
